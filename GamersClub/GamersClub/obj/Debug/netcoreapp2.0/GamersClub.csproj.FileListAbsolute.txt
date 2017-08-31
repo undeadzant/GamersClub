@@ -1,0 +1,12 @@
+C:\Users\DJMattik\Documents\cmps411\cmps411\GamersClub\GamersClub\bin\Debug\netcoreapp2.0\GamersClub.deps.json
+C:\Users\DJMattik\Documents\cmps411\cmps411\GamersClub\GamersClub\bin\Debug\netcoreapp2.0\GamersClub.runtimeconfig.json
+C:\Users\DJMattik\Documents\cmps411\cmps411\GamersClub\GamersClub\bin\Debug\netcoreapp2.0\GamersClub.runtimeconfig.dev.json
+C:\Users\DJMattik\Documents\cmps411\cmps411\GamersClub\GamersClub\bin\Debug\netcoreapp2.0\GamersClub.dll
+C:\Users\DJMattik\Documents\cmps411\cmps411\GamersClub\GamersClub\bin\Debug\netcoreapp2.0\GamersClub.pdb
+C:\Users\DJMattik\Documents\cmps411\cmps411\GamersClub\GamersClub\obj\Debug\netcoreapp2.0\GamersClub.csprojResolveAssemblyReference.cache
+C:\Users\DJMattik\Documents\cmps411\cmps411\GamersClub\GamersClub\obj\Debug\netcoreapp2.0\GamersClub.csproj.CoreCompileInputs.cache
+C:\Users\DJMattik\Documents\cmps411\cmps411\GamersClub\GamersClub\obj\Debug\netcoreapp2.0\GamersClub.AssemblyInfoInputs.cache
+C:\Users\DJMattik\Documents\cmps411\cmps411\GamersClub\GamersClub\obj\Debug\netcoreapp2.0\GamersClub.AssemblyInfo.cs
+C:\Users\DJMattik\Documents\cmps411\cmps411\GamersClub\GamersClub\obj\Debug\netcoreapp2.0\GamersClub.dll
+C:\Users\DJMattik\Documents\cmps411\cmps411\GamersClub\GamersClub\obj\Debug\netcoreapp2.0\GamersClub.pdb
+C:\Users\DJMattik\Documents\cmps411\cmps411\GamersClub\GamersClub\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
